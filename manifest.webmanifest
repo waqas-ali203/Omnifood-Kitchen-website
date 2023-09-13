@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "acor-image/favico1n.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "acor-image/apple-touch.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
